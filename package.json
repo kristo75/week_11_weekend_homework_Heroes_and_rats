@@ -1,0 +1,19 @@
+{
+  "name": "weekend_homework_heroes_and_rats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristo75/week_11_weekend_homework_Heroes_and_rats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristo75/week_11_weekend_homework_Heroes_and_rats/issues"
+  },
+  "homepage": "https://github.com/kristo75/week_11_weekend_homework_Heroes_and_rats#readme"
+}
